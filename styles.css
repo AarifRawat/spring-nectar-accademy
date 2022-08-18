@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  color: black;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeldMRpc-2R6VFOJRrhcSnilxWpr2v6lFbGw&usqp=CAU');
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#logo {
+  margin-top: 20px;
+  font-size: 35px;
+  color: aliceblue;
+  text-decoration: underline cornflowerblue;
+}
+#contact {
+  color: aquamarine;
+}
+#paonta {
+  color: aquamarine;
+}
+#NEW {
+  color: cyan;
+  width: 95%;
+}
+#batch {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+#sc {
+  color: aqua;
+  width: 90%;
+  text-align: right;
+  font-size: 30px;
+}
+#add {
+  color: aliceblue;
+  margin-top: 10%;
+  margin-left: 5%;
+  font-size: 20px;
+}
